@@ -51,3 +51,18 @@
 .github-badge .bg-purple {
   background-color: #ab34e9
 }
+/*表情自定义大小*/
+    .emotion-weibo {
+    width: 30px;
+    }
+    .emotion-tieba {
+    width: 30px;
+    }
+    .comment-content-true img.emotion-weibo 
+    {
+    max-width: 100%!important;
+    }
+    .comment-content-true img.emotion-tieba 
+    {
+    max-width: 100%!important;
+    }
