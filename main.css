@@ -38,10 +38,10 @@
   border-bottom-right-radius: 4px
 }
 .github-badge .bg-blue {
-  background-color: #007ec6
+  background-image: -webkit-linear-gradient(0deg, #3ca5f6 0%, #a86af9 100%);
 }
 .github-badge .bg-orange {
-  background-color: #ffa500
+  background-color: #fadfa3
 }
 .github-badge .bg-red {
   background-color: #f00
